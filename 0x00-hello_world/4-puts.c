@@ -3,7 +3,7 @@
 
 /** 
  * main - prints "Programming is like building a multilingual 
- * puzzle, followed by new line."
+ * puzzle, followed by new line.
  * Return: Always 0.
  */
 
